@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Mayank;A+Passionate+FullStack+Developer;From+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kumar+Mayank;FullStack+Developer+From+India" alt="Typing SVG" />
 </p>
+
 
 <h3 align="center">A passionate FullStack developer from India</h3>
 
